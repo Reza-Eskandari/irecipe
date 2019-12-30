@@ -1,6 +1,6 @@
-# irecipe2
+# iRecipe😋
 
-A new Flutter project.
+The go-to place to find recipes for new and more importatnly delicious food🥩 from around the world🌎. [MORE RECIPES COMING SOON!🥩❤️]
 
 ## Getting Started
 
